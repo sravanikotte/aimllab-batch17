@@ -1,4 +1,5 @@
 # aimllab-batch17 
+https://github.com/sravanikotte/aimllab-batch17/blob/main/dtree.ipynb
 https://github.com/sravanikotte/aimllab-batch17/blob/main/Aissgnment10%2010%20AIML.ipynb
 https://github.com/sravanikotte/aimllab-batch17/blob/main/Lab-9%20AIML.ipynb
 https://github.com/sravanikotte/aimllab-batch17/blob/main/Lab-8%20AIML.ipynb
